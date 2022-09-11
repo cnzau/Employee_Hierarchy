@@ -1,0 +1,6 @@
+Employee 01,,1000
+Employee 02,Employee 01,800
+Employee 03,Employee 01,500
+Employee 04,Employee 02,500
+Employee 05,Employee 01,500
+Employee 06,Employee 02,500
